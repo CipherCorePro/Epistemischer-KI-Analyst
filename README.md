@@ -11,8 +11,8 @@
 
 | Plattform | Download |
 |----------|----------|
-| 🪟 Windows | [Download .exe](./releases/download/latest/Epistemischer_KI_Analyst.exe) |
-| 🐧 Linux   | [Download .img](./releases/download/latest/Epistemischer_KI_Analyst.img) |
+| 🪟 Windows | [Download .exe](https://drive.google.com/file/d/1qApqDuXs-1fiKmZrJclUpDpsATMQOolr/view?usp=drive_link) |
+| 🐧 Linux   | [Download .img](https://drive.google.com/file/d/1FhNXrqBIRJ7OLjAJM52We1bg6IMnpPrT/view?usp=sharing) |
 
 ---
 
