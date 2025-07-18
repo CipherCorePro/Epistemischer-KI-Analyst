@@ -15,7 +15,22 @@
 | 🐧 Linux   | [Download .img](https://drive.google.com/file/d/1FhNXrqBIRJ7OLjAJM52We1bg6IMnpPrT/view?usp=sharing) |
 
 ---
+## 🔑 Gemini API Key – erforderlich
 
+Ein Großteil der KI-Funktionalität basiert auf dem Einsatz von **Google Gemini (Text & Bild)**.  
+Daher ist zur Nutzung der Anwendung ein **eigener API-Schlüssel** erforderlich.
+
+### So funktioniert’s:
+
+1. Erstelle einen Account bei **[Google AI Studio](https://makersuite.google.com/app)**  
+2. Gehe zu **API Access** → **"Get API Key"**
+3. Kopiere den Schlüssel (beginnt mit `AIza...`)
+4. Beim ersten Start der Anwendung wirst du nach dem Key gefragt
+5. Der Key wird **nur für die laufende Sitzung** gespeichert (aus Sicherheitsgründen)
+
+> Ohne gültigen Gemini API Key bleiben viele Funktionen (Analyse, Artikel, Bildgenerierung etc.) deaktiviert.
+
+---
 ## 🧩 Was ist das?
 
 Der **Epistemische KI-Analyst & Content Suite** ist eine plattformübergreifende, lokal lauffähige Desktop-Anwendung (Electron-basiert), die Nutzern hilft, komplexe Aussagen epistemisch zu analysieren, Inhalte KI-gestützt zu generieren und Informationsquellen kritisch zu strukturieren.
