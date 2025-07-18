@@ -1,5 +1,12 @@
 # 🧠 Epistemischer KI-Analyst & Content Suite
 
+<img width="1584" height="992" alt="ui1" src="https://github.com/user-attachments/assets/f748b9cb-f0d8-4419-8d3b-3fce3d148314" />
+
+<img width="1584" height="992" alt="ui2" src="https://github.com/user-attachments/assets/d61e18a1-4220-482d-8bb3-1525347421aa" />
+
+<img width="1584" height="992" alt="ui3" src="https://github.com/user-attachments/assets/989124d4-6f89-4fde-9d91-cc51268abb6c" />
+
+
 **Eine neue Klasse erkenntnisorientierter KI-Werkzeuge – bereitgestellt als vorkompilierte Anwendung**
 
 > _„Die Wahrheit ist nicht das Ende des Denkens – sondern sein produktivster Grenzbereich.“_
