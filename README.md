@@ -86,7 +86,7 @@ Nicht das bloße Sammeln von Informationen, sondern deren kritische Strukturieru
 ## 👤 Autor
 
 Entwickelt von [Ralf Krümmel](mailto:ralf.kruemmel@outlook.com)  
-Inhaber: **Epistemic Studio**
+Inhaber: **Ralf Krümmel CipherCore**
 
 > Projektwebsite / Präsentation auf Anfrage verfügbar
 
@@ -96,6 +96,7 @@ Inhaber: **Epistemic Studio**
 
 Für Lizenzierung, kommerzielle Anfragen oder Partnerschaften:  
 📧 **ralf.kruemmel@outlook.com**
+<img width="1408" height="768" alt="raslf_converted_image" src="https://github.com/user-attachments/assets/f456efe5-f838-49cf-b1f5-e3b3cea43c12" />
 
 ---
 
