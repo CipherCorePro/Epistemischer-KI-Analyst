@@ -1,5 +1,7 @@
 # 🧠 Epistemischer KI-Analyst & Content Suite
 
+https://github.com/CipherCorePro/Epistemischer-KI-Analyst
+
 <img width="1584" height="992" alt="ui1" src="https://github.com/user-attachments/assets/f748b9cb-f0d8-4419-8d3b-3fce3d148314" />
 
 <img width="1584" height="992" alt="ui2" src="https://github.com/user-attachments/assets/d61e18a1-4220-482d-8bb3-1525347421aa" />
